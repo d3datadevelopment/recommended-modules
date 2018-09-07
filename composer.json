@@ -22,7 +22,7 @@
   },
   "homepage": "https://www.oxidmodule.com/",
   "license": [
-    "Creative Commons Zero v1.0 Universal"
+    "CC0-1.0"
   ],
   "require": {
     "oxid-esales/oxideshop-metapackage-ce": "~6.0.0 || ~6.1.0",

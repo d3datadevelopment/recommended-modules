@@ -11,10 +11,10 @@
   ],
   "authors": [
     {
-        "name": "D3 Data Development (Inh. Thomas Dartsch)",
-        "email": "info@shopmodule.com",
-        "homepage": "http://www.d3data.de",
-        "role": "Owner"
+      "name": "D3 Data Development (Inh. Thomas Dartsch)",
+      "email": "info@shopmodule.com",
+      "homepage": "http://www.d3data.de",
+      "role": "Owner"
     }
   ],
   "support": {
@@ -26,10 +26,17 @@
   ],
   "require": {
     "oxid-esales/oxideshop-metapackage-ce": "~6.0.0 || ~6.1.0",
-    "oxid-community/moduleinternals": ">1.0.1",
-    "oxid-professional-services/oxid-console": ">5.0.0",
-    "oxid-professional-services/oxid-modules-config": ">4.0.0",
-    "oxid-projects/captcha-module": ">2.0.0",
-    "d3/devhelper": ">2.0.0"
+    "d3/devhelper": "^2.0",
+    "oxid-community/moduleinternals": "^1.0",
+    "oxid-professional-services/oxid-console": "^5.0",
+    "oxid-professional-services/oxid-modules-config": "^4.0",
+    "oxid-projects/captcha-module": "^2.0"
+  },
+  "suggest": {
+    "oxid-esales/azure-theme": "This is Azure Theme for OXID eShop.",
+    "oxid-esales/pdf-invoice-module": "This is Invoice PDF module for OXID eShop.",
+    "oxid-esales/extended-order-administration-module": "Extended Order Admin module for OXID eShop.",
+    "oxid-esales/tags-module": "This is a tags module for OXID eShop.",
+    "oxid-projects/statistics-module": "Logging and displaying statistics for OXID eShop."
   }
 }

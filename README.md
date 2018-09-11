@@ -19,7 +19,7 @@ Run this command:
 
 `composer require d3/recommended-modules-metapackage --update-no-dev`
 
-## Show addition recommended modules
+## Show more recommended modules
 
 Run this command:
 

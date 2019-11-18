@@ -25,18 +25,33 @@
     "CC0-1.0"
   ],
   "require": {
-    "oxid-esales/oxideshop-metapackage-ce": "~6.0.0 || ~6.1.0",
-    "d3/devhelper": "^2.0",
-    "oxid-community/moduleinternals": "^1.0",
-    "oxid-professional-services/oxid-console": "^5.0",
-    "oxid-professional-services/oxid-modules-config": "^4.0",
-    "oxid-projects/captcha-module": "^2.0"
+    "oxid-esales/oxideshop-metapackage-ce": "*",
+    "oxid-community/moduleinternals": "*",
+    "oxid-professional-services/oxid-console": "*",
+    "oxid-professional-services/oxid-modules-config": "*"
+  },
+  "require-dev": {
+    "d3/devhelper": "*",
+    "florianpalme/oxid-debugbar": "*"
   },
   "suggest": {
-    "oxid-esales/azure-theme": "This is Azure Theme for OXID eShop.",
-    "oxid-esales/pdf-invoice-module": "This is Invoice PDF module for OXID eShop.",
-    "oxid-esales/extended-order-administration-module": "Extended Order Admin module for OXID eShop.",
-    "oxid-esales/tags-module": "This is a tags module for OXID eShop.",
-    "oxid-projects/statistics-module": "Logging and displaying statistics for OXID eShop."
+    "d3/ordermanager": "Lassen Sie wiederkehrende Aufgaben automatisch nach frei definierbaren Regeln ausführen.",
+    "d3/disableadminelements": "Hide unused menu items in the oxid eshop admin.",
+    "oxid-community/adminsearch": "Search OXID admin globally for products, categories, clients, etc.",
+    "oxid-esales/twig-admin-theme": "The admin theme for twig engine. NOTE! requires OXID >= 6.2.0",
+    "oxid-esales/twig-theme": "Templates based on the twig engine. NOTE! requires OXID >= 6.2.0",
+    "oxid-projects/extended-order-administration-module": "Extended Order Admin module for OXID eShop.",
+    "oxid-projects/facebook-module": "Facebook social plugins: Connect, Comments, Like, Invite, Facepile, Share.",
+    "oxid-projects/lexware-export-module": "This module exports order information into an XML format.",
+    "oxid-projects/pdf-invoice-module": "This is Invoice PDF module for OXID eShop.",
+    "oxid-projects/statistics-module": "Logging and displaying statistics for OXID eShop.",
+    "oxid-projects/tags-module": "This is a tags module for OXID eShop.",
+    "oxid-projects/captcha-module": "This is Captcha module for OXID eShop.",
+
+    "d3/oxid-sql-logger": "[DEV] Returns all SQL queries into console of a Browser.",
+    "oxid-esales/module-generator": "[DEV] Folders structure, empty classes and metadata generation for new OXID eShop modules.",
+    "oxid-esales/graphql-base": "[DEV] A basic GraphQL implementation for the OXID eShop.",
+    "oxid-esales/smarty-to-twig-converter": "[DEV] A Tool to convert smarty template engine to twig template engine."
+
   }
 }

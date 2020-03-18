@@ -47,6 +47,7 @@
     "oxid-projects/statistics-module": "Logging and displaying statistics for OXID eShop.",
     "oxid-projects/tags-module": "This is a tags module for OXID eShop.",
     "oxid-projects/captcha-module": "This is Captcha module for OXID eShop.",
+    "vanilla-thunder/fix-phpmailer": "Fix for OXID eShop: PHPMailer bug #751",
 
     "d3/oxid-sql-logger": "[DEV] Returns all SQL queries into console of a Browser.",
     "oxid-esales/module-generator": "[DEV] Folders structure, empty classes and metadata generation for new OXID eShop modules.",

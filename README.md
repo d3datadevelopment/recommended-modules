@@ -28,6 +28,7 @@ contains an additional list of other suggested modules
 * Statistics ~ OXID Projects
 * Tags ~ OXID Projects
 * Captcha ~ OXID Projects
+* PHPMailer Bugfix ~ Vanilla-thunder
 
 ### suggest-dev list
 * OXID SQL Logger ~ D3

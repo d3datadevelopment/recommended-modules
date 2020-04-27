@@ -29,6 +29,7 @@ contains an additional list of other suggested modules
 * Tags ~ OXID Projects
 * Captcha ~ OXID Projects
 * PHPMailer Bugfix ~ Vanilla-thunder
+* WYSIWYG-Editor SummerNote Bug - [{ $oViewConf-&gtgetBaseDir() }] - https://www.proudcommerce.com/blog/summernote-wysiwyg-smarty-oxid-6
 
 ### suggest-dev list
 * OXID SQL Logger ~ D3

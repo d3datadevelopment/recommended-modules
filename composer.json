@@ -28,7 +28,8 @@
     "oxid-esales/oxideshop-metapackage-ce": "*",
     "oxid-community/moduleinternals": "*",
     "oxid-professional-services/oxid-console": "*",
-    "oxid-professional-services/oxid-modules-config": "*"
+    "oxid-professional-services/oxid-modules-config": "*",
+    "oxid-projects/captcha-module": "*"
   },
   "require-dev": {
     "d3/devhelper": "*",
@@ -46,7 +47,6 @@
     "oxid-projects/pdf-invoice-module": "This is Invoice PDF module for OXID eShop.",
     "oxid-projects/statistics-module": "Logging and displaying statistics for OXID eShop.",
     "oxid-projects/tags-module": "This is a tags module for OXID eShop.",
-    "oxid-projects/captcha-module": "This is Captcha module for OXID eShop.",
     "vanilla-thunder/fix-phpmailer": "Fix for OXID eShop: PHPMailer bug #751",
     "proudcommerce/pcsummernotefix": "Fixes summernote problem while saving content with smarty tags.",
 

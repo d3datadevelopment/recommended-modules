@@ -12,6 +12,7 @@ contains an additional list of other suggested modules
 * Module Internals ~ OXID Community
 * OXID Console ~ OXID PS
 * OXID Module Configuration Im-/Exporter ~ OXID PS
+* Captcha ~ OXID Projects
 
 ### require-dev
 * D3 Development Tool ~ D3
@@ -27,7 +28,6 @@ contains an additional list of other suggested modules
 * PDF Invoice ~ OXID Projects
 * Statistics ~ OXID Projects
 * Tags ~ OXID Projects
-* Captcha ~ OXID Projects
 * PHPMailer Bugfix ~ Vanilla-thunder
 * WYSIWYG-Editor SummerNote Bug - [{ $oViewConf-&gtgetBaseDir() }] - https://www.proudcommerce.com/blog/summernote-wysiwyg-smarty-oxid-6
 
@@ -36,7 +36,6 @@ contains an additional list of other suggested modules
 * Module Generator ~ OXID eSales
 * GraphQL Base ~ OXID eSales
 * Smarty to TWIG Converter ~ OXID eSales
-* 
 
 ## Installation
 

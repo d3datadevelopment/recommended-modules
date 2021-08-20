@@ -26,7 +26,6 @@
   ],
   "require": {
     "oxid-esales/oxideshop-metapackage-ce": "*",
-    "oxid-community/moduleinternals": "*",
     "oxid-professional-services/oxid-console": "*",
     "oxid-professional-services/oxid-modules-config": "*",
     "oxid-projects/captcha-module": "*"
@@ -49,11 +48,10 @@
     "oxid-projects/tags-module": "This is a tags module for OXID eShop.",
     "vanilla-thunder/fix-phpmailer": "Fix for OXID eShop: PHPMailer bug #751",
     "proudcommerce/pcsummernotefix": "Fixes summernote problem while saving content with smarty tags.",
-
+    
     "d3/oxid-sql-logger": "[DEV] Returns all SQL queries into console of a Browser.",
     "oxid-esales/module-generator": "[DEV] Folders structure, empty classes and metadata generation for new OXID eShop modules.",
     "oxid-esales/graphql-base": "[DEV] A basic GraphQL implementation for the OXID eShop.",
     "oxid-esales/smarty-to-twig-converter": "[DEV] A Tool to convert smarty template engine to twig template engine."
-
   }
 }

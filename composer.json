@@ -32,7 +32,7 @@
   },
   "require-dev": {
     "d3/devhelper": "*",
-    "florianpalme/oxid-debugbar": "*"
+    "d3/oxid-debugbar": "*"
   },
   "suggest": {
     "d3/ordermanager": "Lassen Sie wiederkehrende Aufgaben automatisch nach frei definierbaren Regeln ausführen.",
